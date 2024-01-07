@@ -1,4 +1,5 @@
 <h2>Hi👋, I'm Karthik !</h2>
+<img align='right' src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="230">
 <p><em>Python Application Developer at Tata Consultancy Services</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
