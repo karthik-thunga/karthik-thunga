@@ -1,6 +1,8 @@
 <h2>Hi👋, I'm Karthik !</h2>
-<p><em>Python Application Developer at Tata Consultancy Services</em></p>
+<p><em>Python Application Developer at Tata Consultancy Services</p>
+📫 Reach me at **karthik.thunga@protonmail.com**
 
+<iframe src="https://giphy.com/embed/R03zWv5p1oNSQd91EP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/karthik-thunga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthik-thunga" height="30" width="40" /></a>
@@ -14,7 +16,7 @@ karthik = {
     code: ["Python", "SQL"],
     abount_me: ["Backend Dev", "Cloud Engineer"],
     technologies: {
-        back_end: ["Flask", "Django", "FastAPI"],
+        backEnd: ["Flask", "Django", "FastAPI"],
         cloud: ["GCP"],
         databases: ["Postgres", "Spanner", "sqlite"],
         misc: ["Terraform", "Linux"]
