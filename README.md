@@ -15,7 +15,7 @@ karthik = {
     code: ["Python", "SQL"],
     abount_me: ["Backend Dev", "Cloud Engineer"],
     technologies: {
-        backEnd: ["Flask", "Django", "FastAPI"],
+        back_end: ["Flask", "Django", "FastAPI"],
         cloud: ["GCP"],
         databases: ["Postgres", "Spanner", "sqlite"],
         misc: ["Terraform", "Linux"]
