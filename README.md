@@ -1,5 +1,5 @@
 <h2>Hi👋, I'm Karthik !</h2>
-<img align='right' src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="250">
 <p><em>Python Application Developer at Tata Consultancy Services</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,7 +14,7 @@ karthik = {
     code: ["Python", "SQL"],
     abount_me: ["Backend Dev", "Cloud Engineer"],
     technologies: {
-        backEnd: ["Flask", "Django", "FastAPI"],
+        back_end: ["Flask", "Django", "FastAPI"],
         cloud: ["GCP"],
         databases: ["Postgres", "Spanner", "sqlite"],
         misc: ["Terraform", "Linux"]
