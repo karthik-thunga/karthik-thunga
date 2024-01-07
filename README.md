@@ -1,6 +1,5 @@
 <h2>Hi👋, I'm Karthik !</h2>
-<p><em>Python Application Developer at Tata Consultancy Services</p>
-📫 Reach me at **karthik.thunga@protonmail.com**
+<p><em>Python Application Developer at Tata Consultancy Services</em></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
