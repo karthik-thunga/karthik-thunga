@@ -28,3 +28,5 @@ karthik = {
 **I Mostly Code in Python** 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthik-thunga&show_icons=true&locale=en&layout=compact" alt="karthik-thunga" /></p>
+
+**Checkout My Resume [Here](https://py_noob.hackerresume.io/08376ace-8a64-451b-97a9-fa36932cb1c8)**
