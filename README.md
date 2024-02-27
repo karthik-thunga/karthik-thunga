@@ -24,7 +24,7 @@ karthik = {
 }
 ```
 ---
-**Checkout My Resume [Here](https://py_noob.hackerresume.io/08376ace-8a64-451b-97a9-fa36932cb1c8)**
+**Checkout My Resume [Here](https://karthik-thunga.github.io/portfolio/)**
 
 **I Mostly Code in Python** 
 
